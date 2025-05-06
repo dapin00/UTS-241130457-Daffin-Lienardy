@@ -1,0 +1,10 @@
+h1{
+    color: #008000;
+}
+h2{
+    border-bottom: 1px #008000 solid;
+    text-align: center;
+}
+section {
+    border: 1px #008000 solid;
+}

@@ -1,3 +1,6 @@
+html{
+    background-color: #edfaee;
+}
 h1{
     color: #008000;
 }
@@ -7,4 +10,14 @@ h2{
 }
 section {
     border: 1px #008000 solid;
+}
+p1{
+    background-color: #008000;
+    color: white;
+}
+p2{
+    color: grey;
+}
+baju1{
+    width: 
 }
